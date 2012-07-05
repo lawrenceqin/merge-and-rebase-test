@@ -4,3 +4,4 @@ Bug 1
 Feature 3
 -= Branch Diverged =-
 Feature 6
+Feature 7
