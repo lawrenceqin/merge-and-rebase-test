@@ -5,3 +5,7 @@ Feature 3
 Branch 1 -- Feature 10
 Branch 2 -- Feature 11
 Branch 3 -- Feature 12
+-= Branch Diverged =-
+Feature 6
+Feature 7
+Feature 8
